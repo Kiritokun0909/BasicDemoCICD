@@ -22,4 +22,4 @@ jobs:
 
     - name: Run tests
       run: |
-        python hello.py
+        python helloWorld.py
